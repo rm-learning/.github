@@ -22,36 +22,40 @@ no desenvolvimento dos projetos.
 <h3><img width="20" alt="star" src="https://i.imgur.com/8XzXlZ3.png"/>
    ≈ Weekly Stats: o que estou aprendendo?</h3>
 
-<a target="_blank"><img width="30" height="30" target="_blank" alt="Dart Logo"
+<div align="center">
+
+   <a><img width="30" height="30" alt="Dart Logo"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Dart-Dark.svg">
-</a> ⋱⋰
-<a target="_blank"><img width="30" height="30" target="_blank" alt="Flutter Logo"
+    </a> ⋱⋰
+   <a><img width="30" height="30" alt="Flutter Logo"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flutter-Dark.svg">
-</a>,
-<a target="_blank"><img width="30" height="30" target="_blank" alt="Java Logo"
+    </a>,
+   <a><img width="30" height="30" alt="Java Logo"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg">
-</a> ⋱⋰
-<a target="_blank"><img width="30" height="30" target="_blank" alt="Java Logo"
+    </a> ⋱⋰
+   <a><img width="30" height="30" alt="Java Logo"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Spring-Dark.svg">
-</a>,
-<a target="_blank"><img width="30" height="30" target="_blank" alt="Csharp Logo"
+    </a>,
+   <a><img width="30" height="30" alt="Csharp Logo"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CS.svg">
-</a> ⋱⋰
-<a target="_blank"><img width="30" height="30" target="_blank" alt="Unity Logo"
+    </a> ⋱⋰
+   <a><img width="30" height="30" alt="Unity Logo"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Unity-Dark.svg">
-</a>,
-<a target="_blank"><img width="30" height="30" target="_blank" alt="Python Logo"
+    </a>,
+   <a><img width="30" height="30" alt="Python Logo"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg">
-</a> ⋱⋰
-<a target="_blank"><img width="30" height="30" target="_blank" alt="Jupyter 
+    </a> ⋱⋰
+   <a><img width="30" height="30" alt="Jupyter 
     Notebook Logo" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg">
-</a>,
-<a target="_blank"><img width="30" height="30" target="_blank" alt="HTML Logo"
+    </a>,
+   <a><img width="30" height="30" alt="HTML Logo"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg">
-</a> ⋱⋰
-<a target="_blank"><img width="30" height="30" target="_blank" alt="Unity Logo"
+    </a> ⋱⋰
+   <a><img width="30" height="30" alt="CSS Logo"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg">
-</a>
+    </a>
+
+</div>
 
 Os repositórios desta organização seguem os padrões de projeto descritos
 [aqui](). Caso encontre erros ou implementações não tão eficientes assim, saiba
@@ -60,6 +64,12 @@ parte do processo, quanto antes eu puder entender minhas falhas, melhor.
 Normalmente, meus estudos estão alinhados com a faculdade, mas levo em
 consideração os roadmaps para guiar meu aprendizado.
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/646eb114f4193ae10b46b8c0?variant=dark&roadmaps=java%2Cflutter%2Cpython%2Cfrontend" alt="roadmap.sh"/></a>
+<div align="center">
+
+   <a href="https://roadmap.sh"><img alt="roadmap.sh" 
+    src="https://api.roadmap.sh/v1-badge/wide/646eb114f4193ae10b46b8c0?variant=dark&roadmaps=java%2Cflutter%2Cpython%2Cfrontend"/>
+    </a>
+
+</div>
 
 <hr>
