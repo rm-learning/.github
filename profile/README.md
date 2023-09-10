@@ -69,8 +69,7 @@ contrário; o contexto em que estou programando dita o que estou fazendo.
 
 <div align="center">
 
-   <a href="https://roadmap.sh"><img alt="weekly progress from roadmap.sh"
-    src="https://api.roadmap.sh/v1-badge/wide/646eb114f4193ae10b46b8c0?variant=dark&roadmaps=java%2Cflutter%2Cpython%2Cfrontend"/></a>
+   [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646eb114f4193ae10b46b8c0?variant=dark&roadmaps=java%2Cflutter%2Cpython%2Cfrontend)](https://roadmap.sh)
 
 </div>
 
